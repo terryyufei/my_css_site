@@ -5,6 +5,7 @@ body {
     background: linear-gradient(to bottom, #E4F9F5, #D0F1ED);
     /* Lighter background */
     color: #40514E;
+    width: 100%;
 }
 
 h1 {
